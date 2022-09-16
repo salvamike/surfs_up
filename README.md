@@ -14,6 +14,8 @@ All this analysis is important to make a great impression to our potential inves
 ![alt text](https://github.com/salvamike/surfs_up/blob/main/Images/JuneWeather.png)
 
 * The December temperature analysis indicates the average monthly temperature is 71.0 (F), the monthly max temperature is 83.0 (F) and the monthly min temperature is 56.0 (F).
+![alt text](https://github.com/salvamike/surfs_up/blob/main/Images/DecemberWeather.png)
+
 * The standard deviation in the June temperatures is slightly smaller (3.26) compared to the standard deviation in the December temperature (3.75), this impacts temperature ranges and temperature fluxuation. The range of temperatures in June are smaller and therefore warmer compared to the range of temperatures in Decemeber, which are larger and therefore colder.
 
 What also could be analyzed for both of these months:
